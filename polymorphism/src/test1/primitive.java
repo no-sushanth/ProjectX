@@ -17,6 +17,7 @@ public class primitive {
 //		System.out.println(k.byteValue());
 		
 		int i=20;
+		int j=30;
 		Integer x = Integer.valueOf(i);
 		System.out.println(x);
 		
