@@ -16,7 +16,7 @@ public class primitive {
 //		Integer k = Integer.valueOf(130);
 //		System.out.println(k.byteValue());
 		
-		int i=20;
+		int i=10;
 		Integer x = Integer.valueOf(i);
 		System.out.println(x);
 		
