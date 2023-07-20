@@ -1,0 +1,29 @@
+package Bank;
+
+public class Mainapp {
+						
+	public static void main(String[] args) throws Exception {
+		
+		
+		System.out.println("ott app launched");
+		Thread.sleep(4000);
+		
+		Thread t1 = new Thread();
+		System.out.println("movie xyz");
+		t1.run();
+		
+		Thread t2 = new Thread();
+		System.out.println();
+		t2.sleep(4000);
+		t1.wait();
+		t1.join();
+		
+		System.out.println("end");
+		
+		
+		
+		
+		
+	}
+
+}

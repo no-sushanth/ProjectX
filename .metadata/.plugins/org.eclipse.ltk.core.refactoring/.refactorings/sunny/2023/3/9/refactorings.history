@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;&apos; to &apos;sunny.patternRhombus.main(...)&apos;&#x0A;- Original project: &apos;sunny&apos;&#x0A;- Destination element: &apos;sunny.patternRhombus.main(...)&apos;&#x0A;- Original element: &apos;sunny.patternRhombus.main(...)&apos;" description="Copy method" destination="/src&lt;sunny{patternRhombus.java[patternRhombus~main~\[QString;" element1="/src&lt;sunny{patternRhombus.java[patternRhombus~main~\[QString;" flags="589830" id="org.eclipse.jdt.ui.copy" members="1" policy="org.eclipse.jdt.ui.copyMembers" stamp="1677931125891" version="1.0"/>
+</session>

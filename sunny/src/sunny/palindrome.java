@@ -1,0 +1,46 @@
+package sunny;
+
+
+class xyz
+{
+	private int age;
+	private String name;
+	
+	static int count;
+	
+	xyz()
+	{
+		count++;
+	}
+	
+	xyz(int age)
+	{
+		this.age=age;
+		count++;
+	}
+	xyz(int age, String name)
+	{
+		this.age=age;
+		this.name=name; 
+		count++;
+		
+	 count++;
+	}
+}
+
+
+public class palindrome {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		xyz a1=new xyz();
+		System.out.println(xyz.count);
+		xyz a2=new xyz(28);
+		System.out.println(xyz.count);
+		xyz a3=new xyz(28, "Rahul");
+		//xyz a3=new xyz();
+		System.out.println(xyz.count);
+
+	}
+
+}

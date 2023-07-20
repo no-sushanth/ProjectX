@@ -1,0 +1,28 @@
+package sunny;
+
+import java.util.Scanner;
+
+public class series {
+
+	public static void main(String[] args) {
+		
+		Scanner sc=new Scanner(System.in); 
+		int q= sc.nextInt();
+
+		for(int i=0; i<q; i++) {
+			int a = sc.nextInt();
+			int b = sc.nextInt();
+			int n = sc.nextInt();
+			for(int j=0; j<n; j++) {
+				int temp = (int) (a + Math.pow(2,j )*b);
+				temp = temp + (int)(a + Math.pow(2,j )*b);
+				System.out.println(temp);
+			}
+		}
+		sc.close();
+		
+		
+
+	}
+
+}

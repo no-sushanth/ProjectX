@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="in.sunny.onetomany.students"/>
+    <fullyQualifiedTypeName name="aggregation.theatre"/>
+    <fullyQualifiedTypeName name="aggregation.movies"/>
+    <fullyQualifiedTypeName name="manytomany.villains"/>
+    <fullyQualifiedTypeName name="manytomany.character"/>
+    <fullyQualifiedTypeName name="calculatingAREA.circle"/>
+    <fullyQualifiedTypeName name="calculatingAREA.rectangle"/>
+    <fullyQualifiedTypeName name="calculatingAREA.square"/>
+    <fullyQualifiedTypeName name="java.lang.NegativeArraySizeException"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="atm.input.verify"/>
+    <fullyQualifiedTypeName name="atm.input.ops"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+</qualifiedTypeNameHistroy>
